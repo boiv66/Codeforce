@@ -6,7 +6,7 @@
 
 using namespace std;
 
-
+// status: accept => use priority queue
 vector<int>parent; 
 vector<int>visited; 
 vector<int>distanceE; 
